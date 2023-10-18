@@ -21,5 +21,7 @@ li {
 header {
   display: block;
   align-items: center;
-
+}
+section {
+  align-items: center;
 }
