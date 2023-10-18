@@ -18,3 +18,8 @@ li {
     display: inline;
     margin: 0 10px;
   }
+header {
+  display: block;
+  align-items: center;
+
+}
