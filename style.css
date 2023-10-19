@@ -1,4 +1,6 @@
-body,
+body {
+  align-items: center;
+}
 html {
   margin: 0;
   padding: 0;
