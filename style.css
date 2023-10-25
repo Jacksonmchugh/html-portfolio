@@ -52,10 +52,11 @@ section {
 }
 h4 {
   display: block;
-  width: 10%;
+  width: 30%;
+  height: 30%;
   margin: auto;
   padding: auto;
-  
+
 }
 img {
   padding: 10px;
